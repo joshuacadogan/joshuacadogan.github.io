@@ -55,7 +55,7 @@ header::after {
     background-color: white;
 }
 
-.link-tree > li > a ::hover{
+.link-tree > li > a ::hover {
     color: red;
 }
 
